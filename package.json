@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.3.0",
+    "@discordjs/voice": "^0.13.0",
+    "discord-api-types": "^0.37.14",
+    "discord-player": "^5.2.2",
+    "discord.js": "13.9",
+    "dotenv": "^16.0.3",
+    "embed": "^0.0.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "name": "^0.0.2",
+    "node": "^18.11.0",
+    "run": "^1.4.0",
+    "ytdl-core": "^4.11.2"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
