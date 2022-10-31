@@ -12,8 +12,11 @@ const TOKEN = process.env.TOKEN
 
 const LOAD_SLASH = process.argv[2] == "load"
 
-const CLIENT_ID = "1030862065855889420"
-const GUILD_ID = "735532418169176204"
+//your bot client ID
+const CLIENT_ID = " "
+
+//your sever ID
+const GUILD_ID = " "
 
 const client = new Client({
     intents: [
